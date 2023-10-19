@@ -19,7 +19,7 @@ void swiftpair_make_packet(uint8_t* out_size, uint8_t** out_packet, const BleSpa
     } else {
         const char* names[] = {
             //"Assquach💦",
-            "Flipper 🐬",
+            "Infection",
             //"iOS 17 🍎",
             //"Kink💦",
             //"👉👌",
